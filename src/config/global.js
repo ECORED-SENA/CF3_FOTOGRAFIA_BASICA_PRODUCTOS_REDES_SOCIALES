@@ -171,150 +171,141 @@ export default {
   },
   complementario: [
     {
-      texto: 'Amador, P. (s.f.). La imagen fotográfica y su lectura.',
-      tipo: 'Artículo PDF',
-      link: 'https://core.ac.uk/download/pdf/30042969.pdf',
-    },
-    {
       texto:
-        'Arnais, K. (2018). <em>Tipos de plano y ángulos de cámara</em> | <em>Curso de video 7/8</em> [video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=S5MH3srlu28',
-    },
-    {
-      texto:
-        'Colorado, O. (2020). <em>Fotografía: ángulos y altura de cámara</em> [video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=-oJGq42S6sw',
-    },
-    {
-      texto: 'Gonzaga, L. (2013). Aprende a iluminar en fotografía.',
-      tipo: 'Libro PDF',
-      link: 'Páginas: 4 a la 9, 12, 13, 14 ,15.',
-    },
-    {
-      texto:
-        'Freeman, M. (2005). <em>Fotografía digital de personas</em>. TASCHEN.',
-      tipo: 'Libro',
-      link: 'Páginas: 46, 47, 48, 49.',
-    },
-    {
-      texto: 'Zerbst, C. (2008). Introducción a la fotografía digital.',
-      tipo: 'Libro',
-      link:
-        'https://www.uv.mx/personal/lenunez/files/2013/06/INICIACION-A-LA-FOTOGRAFIA-DIGITAL-DeCamaras.pdf',
+        'Sternberg, R., J. Handbook of Creativity. Cambridge University Press.',
+      tipo: 'Web',
+      link: 'https://education.stateuniversity.com/pages/1892/Creativity.html',
     },
   ],
   glosario: [
     {
-      termino: 'Brillo ',
+      termino: 'Aplicación',
       significado:
-        'Luminosidad relevante del color, que se mide como un porcentaje comprendido entre 0% (negro) y 100% (blanco).',
+        'aplicación (también llamada app) es un programa informático creado para llevar a cabo o facilitar una tarea en un dispositivo informático (Sistemas.com, 2021).',
     },
     {
-      termino: 'Contraste',
+      termino: 'Compresión',
       significado:
-        'Escala de tonalidad de una imagen fotográfica, desde claros muy brillantes hasta sombras muy oscuras.',
+        'la compresión de una fotografía es la reducción de los datos digitales que no resultan necesarios e importantes. Esta compresión permite almacenar mayor número de imágenes al conseguir que los archivos resultantes no ocupen mucho espacio.',
     },
     {
-      termino: 'Difusión',
+      termino: 'CMYK',
       significado:
-        'Dispersión de la luz mediante el traspaso de un material translúcido para suavizar la luz y sus sombras. Las nubes son difusores naturales.',
+        'el modelo CMYK (siglas de Cyan, Magenta, Yellow y Key) es un modelo de color sustractivo que se utiliza en la impresión en colores. Es la versión moderna y más precisa del antiguo modelo tradicional de coloración (RGB).',
     },
     {
-      termino: 'Difusor',
+      termino: 'Creatividad',
       significado:
-        'Accesorio portátil de iluminación, puede ser de tela o material translúcido que suaviza la intensidad de la luz.',
+        'capacidad de crear pensamientos nuevos a partir de ideas o conceptos ya conocidos.',
     },
     {
-      termino: 'El guion fotográfico',
+      termino: 'Escenografía',
       significado:
-        'Es la construcción y diseño planificado de los objetivos de la fotografía por realizar.',
+        'grupo de elementos que son utilizados para ambientar y contextualizar un entorno determinado en una escena audiovisual. Estos elementos pueden ser de iluminación, de decoración o utilería.',
     },
     {
-      termino: 'Luz',
+      termino: '<em>Hashtag</em>',
       significado:
-        'Es la parte de la radiación electromagnética que puede ser percibida por el ojo humano.​ En física, el término luz se considera como parte del campo de las radiaciones conocido como espectro electromagnético, mientras que la expresión luz visible señala específicamente la radiación en el espectro visible.',
+        'palabra o frase precedida por un símbolo de numeral (#), utilizado en las redes sociales y en las aplicaciones, especialmente en Twitter, para identificar mensajes sobre un tema específico.',
     },
     {
-      termino: 'Luz artificial',
+      termino: 'Lightroom',
       significado:
-        'Toda fuente de luz producida por medios técnicos, como bombillas o focos.',
+        'programa que hace parte de la suite de Adobe Company, creado para el tratamiento de imágenes digitales, con este programa se logra realizar los procesos de revelado, tratamiento y flujo de trabajo de imágenes (Adobe Company, 2021).',
     },
     {
-      termino: 'Luz de detalle',
+      termino: 'Redes sociales',
       significado:
-        'Es una fuente de luz con una intensidad menor a la luz principal y a la luz secundaria. Su característica principal es que es una luz puntual.',
+        'en el mundo virtual son sitios y aplicaciones que operan en niveles diversos –como el profesional, de relación, entre otros– pero siempre permitiendo el intercambio de información entre personas y/o empresas.',
     },
     {
-      termino: 'Luz dura',
+      termino: 'Mapa de bits',
       significado:
-        'Este tipo de luz se caracteriza por ser una luz que genera una sombra muy contrastada (negra).',
+        'imagen que justamente se presenta en mapa de bits, consiste en una estructura de forma rectangular formada por píxeles o puntos de color, y que puede visualizarse en un monitor, en un papel, o en cualquier otro dispositivo que permita la representación de imágenes.',
     },
     {
-      termino: 'Luz natural',
+      termino: 'Paleta de color',
       significado:
-        'Toda fuente de luz que proviene directamente del sol y se ve afectada por factores atmosféricos como las nubes.',
+        'grupo de colores, que el ojo humano puede captar. Se ubican específicamente dentro de un círculo el cual permite ver y entender los diferentes tonos que componen la paleta de color. Es indispensable para la realización de piezas visuales y gráficas.',
     },
     {
-      termino: 'Luz principal',
+      termino: 'Pixel',
       significado:
-        'Es la más importante, ya que es la luz con más intensidad y por ende, la que predomina en la fotografía. Es la que manda, marca el diafragma a usar.',
+        'el pixel -o px, para abreviar- es el elemento más pequeño de una imagen reproducida digitalmente. En un monitor o en la pantalla de un teléfono móvil se suelen alinear varios píxeles en una trama. La combinación de varios píxeles constituye una imagen rasterizada (Ionos, 2021).',
     },
     {
-      termino: 'Luz secundaria',
+      termino: '<em>Styling</em>',
       significado:
-        'Debe ser una fuente con menor intensidad que la luz principal. Su función es la de rellenar, suavizar o quitar las sombras que se producen por la posición de la luz principal.',
+        'conocimientos de diseño para hacer un producto más atractivo y llamativo en una fotografía, video o puesta en escena.',
     },
     {
-      termino: 'Luz suave',
+      termino: 'Escenografía',
       significado:
-        'Este tipo de luz se caracteriza por ser una luz que genera una sombra muy poco contrastada (grisácea).',
+        'grupo de elementos que son utilizados para ambientar y contextualizar un entorno determinado en una escena audiovisual. Estos elementos pueden ser de iluminación, de decoración o utilería.',
     },
     {
-      termino: 'Ruido',
+      termino: 'Creatividad',
       significado:
-        'Pequeños puntos que se presentan en la fotografía digital. Se producen en situaciones de poca luz donde se utilizan ISO de alto valor.',
+        'capacidad de crear pensamientos nuevos a partir de ideas o conceptos ya conocidos.',
     },
     {
-      termino: 'Trípode de luz',
+      termino: 'Paleta de color',
       significado:
-        'Accesorio que se utiliza como soporte para las cabezas de <em>flash</em>.',
-    },
-    {
-      termino: 'Velocidad de obturación',
-      significado:
-        'Es una variable que controla el tiempo de exposición de la luz en la imagen final.',
+        'grupo de colores, que el ojo humano puede captar. Se ubican específicamente dentro de un círculo que permite ver y entender los diferentes tonos que componen la paleta de color. Es indispensable para la realización de piezas visuales y gráficas.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Gonzaga, L. (2013). <em>Aprender a iluminar en fotografía.</em>',
+        'Adobe. (2020). <em>Acerca de las dimensiones en píxeles y la resolución de la imagen impresa</em>.',
       link:
-        'https://www.aprenderailuminar.com/2011/09/libro-ebook-pdf-aprender-iluminar.html',
-    },
-    {
-      referencia: 'Hofmann. (2021). <em>Tipos de planos en fotografía</em>.',
-      link:
-        'https://www.hofmann.es/blog/fotografia/tipos-de-planos-fotograficos-y-cuando-utilizarlos/',
+        'https://helpx.adobe.com/es/photoshop/using/image-size-resolution.html',
     },
     {
       referencia:
-        'Muchos Leds. (2019). <em>Temperatura de color (cálido, neutro, frío)</em>.',
-      link:
-        'https://muchosleds.com/en/content/6-temperatura-de-color-calido-neutro-frio',
+        'Amador, P. (s.f.). <em>La imagen fotográfica y su lectura</em>.',
+      link: 'https://core.ac.uk/download/pdf/30042969.pdf',
     },
     {
       referencia:
-        'Nikon. (s.f.). 5 sencillas reglas de la composición fotográfica.',
-      link:
-        'https://www.nikon.es/es_ES/learn-and-explore/photography-articles.tag/learn_and_explore/photography_articles/5-easy-composition-guidelines.dcr',
+        'Cerebrote. (2019). <em>Cómo pasar una fotografía de color a un blanco y negro perfecto sin perder detalles ni volumen.</em>. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=5Cmn3O7kEgQ',
     },
     {
       referencia:
-        'Too Many Flash. (2021). <em>Iluminación en fotografía: tipos y teoría de la luz</em>.',
-      link: 'https://toomanyflash.com/iluminacion-en-fotografia/',
+        'Deusto. (2019). <em>Guía de formatos y tamaños para diseños en redes sociales</em>.',
+      link:
+        'https://www.deustoformacion.com/blog/redes-sociales/guia-formatos-tamanos-para-disenos-redes-sociales',
+    },
+    {
+      referencia: 'Crehana. (2019). <em>Qué formatos de archivo existen.</em>.',
+      link:
+        'http://fotografiaparaprincipianntes.blogspot.com/2016/06/las-mascaras-en-photoshop.html',
+    },
+    {
+      referencia: 'Domestika. (2020). <em>Qué es la corrección de color.</em>.',
+      link:
+        'https://www.domestika.org/es/blog/3272-que-es-la-correccion-de-color',
+    },
+    {
+      referencia: 'Fotonostra. (s. f.). <em>El proceso fotográfico.</em>.',
+      link: 'https://www.fotonostra.com/fotografia/procesofoto.htm',
+    },
+    {
+      referencia:
+        'Ordoñez, C. A. (2015). Formatos de imagen digital. <em>Revista Digital Universitaria, (5)7, 2-10.</em>.',
+      link: 'http://www.revista.unam.mx/vol.6/num5/art50/may_art50.pdf',
+    },
+    {
+      referencia:
+        'Rodríguez, H. (2021). <em>Retoque fotográfico: tips para mejorar una foto en Photoshop.</em>.',
+      link:
+        'https://www.crehana.com/co/blog/fotografia/retoque-fotografico-en-photoshop/?utm_source=google&utm_medium=cpc&utm_campaign=search-blog&utm_content=blog-fotografia&utm_term=upper-funnel&gclid=CjwKCAjwrfCRBhAXEiwAnkmKmXcb9nVcFj6aRgi7uOM0-GpS80clNaUzysnMyIn3tmgWROEu3A7PaBoCjnoQAvD_BwE',
+    },
+    {
+      referencia:
+        'TooMany Flash. (2021). <em>Conoce todo sobre la edición de fotos: conceptos, proceso, tips y más.</em>.',
+      link: 'https://toomanyflash.com/edicion-de-fotos/',
     },
   ],
   creditos: {
@@ -355,7 +346,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura – Regional Santander',
       },
       {
-        nombre: 'Julia Isabel Roberto',
+        nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Correctora de estilo',
         centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
       },
