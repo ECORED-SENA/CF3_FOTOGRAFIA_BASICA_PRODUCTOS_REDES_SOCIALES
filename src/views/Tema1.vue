@@ -157,13 +157,13 @@
     p.mb-5 La aplicación de Lightroom tiene varias opciones para quienes editan fotografías, a continuación, se presentan las acciones más populares que las personas utilizan en esa aplicación:
 
     AcordionA.mb-5.acordeon-a(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-      .row.align-items-center(titulo="Trípode de luz")
+      .row.align-items-center(titulo="Realización")
         img(src='@/assets/curso/temas/tema1/img-18.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
         .col-lg-8.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Las opciones de cámara que ofrece Lightroom son las típicas de casi todas las aplicaciones de fotografía. Estas opciones pueden ser para uso manual profesional o uso automático siendo la manual profesional la que da más control al usuario. Hay dos aspectos que marcan la diferencia a la hora de utilizar Lightroom, el primero es a la hora de capturar fotografías por sus encuadres y ayudas visuales para lograr mejores resultados.
             | El segundo aspecto es el uso de efectos en tiempo real, esto le permite al fotógrafo ver cómo funcionan los diferentes efectos antes de tomar una foto. Es de gran ayuda saber cómo van a quedar las fotos que se están pensando.
       
-      .row.align-items-center(titulo="Trípode de luz")
+      .row.align-items-center(titulo="Catalogación")
         img(src='@/assets/curso/temas/tema1/img-19.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
         .col-lg-8.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 <span class="fw-bold">Catalogación</span>
@@ -171,7 +171,7 @@
             br
             | Permite organizar y catalogar las fotografías. brindando al usuario la posibilidad de ubicar todas las imágenes en su lugar. Puede diseñar y crear álbumes con fotos seleccionadas, organizar las fotos tomadas en fechas y horas específicas. Lightroom tiene una poderosa base de datos que le permite saber dónde, cuándo y cómo se realizaron las fotografías.
       
-      .row.align-items-center(titulo="Trípode de luz")
+      .row.align-items-center(titulo="Retoque")
         img(src='@/assets/curso/temas/tema1/img-20.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
         .col-lg-8.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 <span class="fw-bold">Retoque</span>
@@ -179,7 +179,7 @@
             br
             Los ajustes de las imágenes se pueden dar en escenarios básicos como el contraste, la exposición, el brillo y opciones avanzadas, a diferencia de otras herramientas. La edición de imágenes no es destructiva. Es decir, se puede retocar la imagen de acuerdo con el gusto del usuario, Lightroom permite siempre volver a la imagen original. De esta forma, se puede mantener la foto original y usar configuraciones que se pueden cambiar en cualquier momento sin afectar la calidad de la fotografía. Una muy importante ventaja de esta edición es la posibilidad de aplicar arreglos a otras imágenes.
       
-      .row.align-items-center(titulo="Trípode de luz")
+      .row.align-items-center(titulo="Procesado")
         img(src='@/assets/curso/temas/tema1/img-21.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
         .col-lg-8.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 <span class="fw-bold">Procesado</span>
@@ -205,24 +205,24 @@
     p.mb-5 A continuación, se realiza una  breve descripción de los más relevantes del mercado sin costo alguno; es probable que usted conozca más aplicaciones y que con el paso del tiempo aparezcan nuevas aplicaciones,  será su responsabilidad estar actualizado al respecto: 
 
     TabsC.color-acento-botones.mb-5.tabs-c-t1
-      .py-3.py-md-4(titulo="Barrido fotográfico")
+      .py-3.py-md-4(titulo="Adobe Photoshop Express")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
-          img(src='@/assets/curso/temas/tema1/img-22.png' style="max-width: 400px").col-xl-5
+          img(src='@/assets/curso/temas/tema1/img-22.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
           p.ps-xl-4.mb-0 Sin duda alguna es la herramienta más completa del mercado ya que permite ajustar los tamaños de las imágenes.  Adicionalmente, cuenta con la opción HDR, que es la que mejora las fotografías en perspectiva, así como el ajuste de la imagen de acuerdo con su necesidad, saturación, sombras, brillo, contraste, entre otras. Uno de sus más grandes atractivos es determinar una sección de la foto y aplicarle el filtro que desee en vivo; esta aplicación está en capacidad de procesar archivos RAW, en los cuales, los filtros se fusionan en capas permitiendo observar las modificaciones realizadas dando la ventaja de ajustar individualmente las imágenes. Esta herramienta es muy funcional para iOS y Android  .
 
-      .py-3.py-md-4(titulo="Barrido fotográfico")
+      .py-3.py-md-4(titulo="Pixlr")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
-          img(src='@/assets/curso/temas/tema1/img-23.png' style="max-width: 400px").col-xl-5
+          img(src='@/assets/curso/temas/tema1/img-23.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
           p.ps-xl-4.mb-0 Ideal para editar fotos desde cualquier dispositivo móvil, permite realizar acciones primordiales de edición de imágenes, contraste, perspectiva, saturación, exposición y eliminación de puntos. De igual forma permite editar imágenes guardadas en un dispositivo las cuales pueden ser llevadas de forma directa desde Adobe Creative Cloud, Dropbox, Facebook o Google Photos. 
 
-      .py-3.py-md-4(titulo="Barrido fotográfico")
+      .py-3.py-md-4(titulo="Snapseed")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
-          img(src='@/assets/curso/temas/tema1/img-24.png' style="max-width: 400px").col-xl-5
+          img(src='@/assets/curso/temas/tema1/img-24.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
           p.ps-xl-4.mb-0 Cuenta con una gran ventaja y que con esta aplicación se pueden realizar collages, con un buen manejo de espacio, multiplicidad de fondos y formatos diferentes, de igual permite diseñar fotos con doble exposición, permitiendo una combinación de fuentes ilimitada, lo más importante de esta herramienta es poder retocar luces, colores y brillos. Permite compartir las fotografías en redes sociales funcional para Android e iOS.
       
-      .py-3.py-md-4(titulo="Barrido fotográfico")
+      .py-3.py-md-4(titulo="VSCO Cam")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
-          img(src='@/assets/curso/temas/tema1/img-25.png' style="max-width: 400px").col-xl-5
+          img(src='@/assets/curso/temas/tema1/img-25.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
           p.ps-xl-4.mb-0 Esta herramienta tiene unas características especiales que la hacen la predilecta a la hora de realizar ajustes de edición fotográfica para dispositivos móviles, permite de manera fácil modificar la  exposición y el contraste, con la ventaja que modificará de forma rápida la temperatura de tus fotos, con resultado óptimo, su fuerte es el manejo de filtros, nitidez, brillos, saturación, exposición entre otros, de igual forma tiene filtros prefijados y suaves de fácil uso los que permiten observar de forma rápida como queda la foto después de usar la herramienta, casi que a simple vista pareciera que no tiene filtros la imagen. Las fotos se podrán exportar directamente en redes sociales, compatibles con iOS y Android.
 
     .titulo-segundo.color-acento-contenido
@@ -234,25 +234,25 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Photos Pos Pro" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         p.fw-bold Photos Pos Pro
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
-          img(src="@/assets/curso/temas/tema1/img-26.png" style="max-width: 400px").col-12-col-xl-5.mb-auto
+          img(src="@/assets/curso/temas/tema1/img-26.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
           p.col-12-col-xl-7.ps-lg-4.mb-0 Esta interfaz permite editar las fotografías con dos interfaces diferentes, cuenta con un diseño avanzado puesto que maneja una gama amplia de herramientas de edición la cual incluye texturas, degradados, pinceles, máscaras, capas y conversión RAW, otra gran ventaja es que se pueden realizar ediciones en grandes espacios de imágenes, esto disminuye el tiempo de edición de forma ordenada y automática, al usuario le llama mucho la atención las mejoras que presentan las imágenes con intermedio de los filtros y efectos creativos con los que cuenta la herramienta y que son de fácil manipulación.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="GIMP" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         p.fw-bold GIMP
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
-          img(src="@/assets/curso/temas/tema1/img-27.png" style="max-width: 400px").col-12-col-xl-5.mb-auto
+          img(src="@/assets/curso/temas/tema1/img-27.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
           p.col-12-col-xl-7.ps-lg-4.mb-0 Se considera el mejor editor de fotografía disponible en el mercado. Este software cuenta con una gama amplia de herramientas, tales como; operaciones básicas y funciones con calidad a nivel profesional. Los usuarios que empiezan en mundo fotográfico podrán beneficiarse de sus herramientas de selección, ajuste de color, montajes, recorte y retoque de imagen automática. Es un software de código abierto, lo que permite que se actualice constantemente.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Paint.net" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         p.fw-bold Paint.net
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
-          img(src="@/assets/curso/temas/tema1/img-28.png" style="max-width: 400px").col-12-col-xl-5.mb-auto
+          img(src="@/assets/curso/temas/tema1/img-28.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
           p.col-12-col-xl-7.ps-lg-4.mb-0 Cuenta con una interfaz directa y clara al momento de ser utilizada, es un software de fácil uso, proporciona una variada gama de herramientas de edición como brillo, contraste, tonos, curvas, niveles, niveles y degradados. También, admite complementos creados por la comunidad de desarrolladores. Estos complementos se pueden usar para acceder a funciones avanzadas, haciendo referencia a la conocida herramienta de rotación/zoom 3D para la reconstrucción de imágenes.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="PhotoScape X" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         p.fw-bold PhotoScape X
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
-          img(src="@/assets/curso/temas/tema1/img-29.png" style="max-width: 400px").col-12-col-xl-5.mb-auto
+          img(src="@/assets/curso/temas/tema1/img-29.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
           p.col-12-col-xl-7.ps-lg-4.mb-0 Este software se conoce como todo en uno, ya que con un solo clic se perciben cambios en las imágenes de forma notoria y con facilidad, cuenta con un sinfín de filtros, marcos, pinceles, herramientas de recorte inteligentes, selectores de color y de clonación. El editor también proporciona una variedad de materiales de edición por lotes, entre ellos cambiar el tamaño y cambiar el nombre del archivo y el formato. Los fotógrafos pueden aprovechar al máximo la función de conversión RAW. De igual forma incluye opciones bastante creativas, collages, fusiones, efectos, texto y pinceles. Dichas funciones son especiales para aquellos creadores de contenido digital preferiblemente para perfiles de redes sociales o campañas de email marketing, cuenta con tutoriales en video de cada herramienta con el fin de conseguir el efecto deseado.
   
 </template>
@@ -304,8 +304,9 @@ export default {
       background-color: #A5F4FFD0
       top: 0
   @media (max-width: 768px)
-    .container-body-text
-      overflow: scroll
+    &:hover
+      .container-body-text
+        overflow: scroll
 .text-decorator-left-bottom
   position: relative
   p

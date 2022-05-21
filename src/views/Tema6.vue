@@ -426,7 +426,7 @@
       .col-xl-7.ps-xl-5.pt-xl-4.pe-xl-3.order-2.order-xl-1
         .text-decorator-top-left
           p Recuerde que el archivo debe estar en modo de color RGB. Esto lo hace más liviano, tiene una resolución de 72 píxeles / pulgada (es posible que en WhatsApp se creen a 150 píxeles / pulgada) normalmente los tipos de archivo que se soportan en las redes están en formatos JPG, PNG, GIF (a veces solo se muestra la primera imagen), y para YouTube, se captura la imagen del video, por lo que se debe incluir el tamaño especificado en la salida del video o en las opciones de YouTube.
-      img(src="@/assets/curso/temas/tema4/img-1.png" style="max-width: 400px").col-xl-5.mb-5.mb-xl-0.mb-xl-auto.mx-auto.order-1.order-xl-2
+      img(src="@/assets/curso/temas/tema6/img-3.png" style="max-width: 400px").col-xl-5.mb-5.mb-xl-0.mb-xl-auto.mx-auto.order-1.order-xl-2
     
     p.mb-5 Exportar un archivo para redes sociales es el objetivo buscado desde el principio de este programa y a continuación se muestra como llega poco a poco a ese anhelado sueño:
 

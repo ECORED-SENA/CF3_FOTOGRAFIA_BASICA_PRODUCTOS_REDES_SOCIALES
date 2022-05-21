@@ -57,22 +57,22 @@
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Las curvas de color permiten manipular la imagen para estabilizar las relaciones entre cada canal RGB y obtener una foto con colores lo más cercanos posible a la escena original.
 
-      .row.align-items-center.col-xl-11.mx-auto(titulo="Curvas de colores")
+      .row.align-items-center.col-xl-11.mx-auto(titulo="Brillo y contraste")
         img(src='@/assets/curso/temas/tema2/img-7.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Aquí se pueden corregir las alteraciones en las imágenes brillantes u oscuras causadas por errores en la exposición de la foto, la iluminación y otros parámetros. Al agrandar el contraste le da a la imagen un aspecto dramático y expresivo.
       
-      .row.align-items-center.col-xl-11.mx-auto(titulo="Curvas de colores")
+      .row.align-items-center.col-xl-11.mx-auto(titulo="Tono, saturación y luminosidad")
         img(src='@/assets/curso/temas/tema2/img-8.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Esto permite cambiar una foto desde tres aspectos básicos., se Puede cambiar el tono de color de la imagen dentro del rango de tono y espectro. La saturación indica la cantidad de color que contiene la imagen (cuando la saturación es mínima, la foto será en blanco y negro). La intensidad luminosa indica la cantidad de luz.
       
-      .row.align-items-center.col-xl-11.mx-auto(titulo="Curvas de colores")
+      .row.align-items-center.col-xl-11.mx-auto(titulo="Balance de color")
         img(src='@/assets/curso/temas/tema2/img-9.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Puede ser similar a una curva de color. La presencia de cada color se puede aumentar, disminuir o aumentar, lo que lo hace ideal para corregir rápidamente tonos claros, medios tonos y sombras individualmente y entre canales.
       
-      .row.align-items-center.col-xl-11.mx-auto(titulo="Curvas de colores")
+      .row.align-items-center.col-xl-11.mx-auto(titulo="Niveles de color")
         img(src='@/assets/curso/temas/tema2/img-10.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
           p.mb-0.ps-4 Su comportamiento es similar al balance de color, pero se diferencia de este último porque se puede ajustar no solo la intensidad de cada color, sino también el brillo y el rango de toda la imagen o de cada canal que la compone. Esto es ideal para corregir imágenes muy oscuras o brillantes, que generalmente también tienen problemas de tonalidad.
@@ -89,7 +89,7 @@
               h3.mb-1(style="color: black !important") Tutorial
               p.text-small(style="color: black !important") Ahora se le reta a convertir una imagen de su elección a blanco y negro sin perder detalles visuales siguiendo el tutorial de Cerebrote (2019).
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="'https://www.youtube.com/watch?v=5Cmn3O7kEgQ&t'" target="_blank")
                 span(style="color: black !important") Ver más
                 i.fas.fa-link(style="color: black !important")
 

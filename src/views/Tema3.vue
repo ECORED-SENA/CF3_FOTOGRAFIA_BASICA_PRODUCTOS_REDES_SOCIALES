@@ -123,4 +123,8 @@ export default {
   @media (max-width: 992px)
     .img-infografica__card, .img-infografica-b__card
       min-width: 0 !important
+    .img-infografica__card
+      width: 100%
+      top: auto !important
+      bottom: 0 !important
 </style>
