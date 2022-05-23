@@ -432,7 +432,7 @@
 
     figure.mb-5.video1
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Tnyh19JYO8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Adicionalmente se requiere que tome acción de la siguiente forma:
 
     .tarjeta.color-primario.p-3.mb-5.col-xl-10.mx-auto(style="background: linear-gradient(0deg, rgba(103,235,253,1) 0%, rgba(131,239,254,1) 25%, rgba(167,244,255,1) 75%, rgba(180,246,255,1) 100%);")
