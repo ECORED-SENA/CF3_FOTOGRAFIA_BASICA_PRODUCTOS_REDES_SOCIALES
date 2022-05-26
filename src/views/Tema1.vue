@@ -58,48 +58,44 @@
       h2#t_1_1 1.1 Técnicas de edición
 
     .d-flex.flex-wrap.flex-lg-nowrap.align-items-center.mb-5
-      p.col-lg-8.pe-lg-4.mb-0.order-2.order-lg-1 Editar fotografía es un proceso que muchos profesionales hacen con tanta naturalidad que permiten recomendar ciertas estrategias para intervenir una imagen antes de sacarla a la luz como lo dice <b>Rodríguez (2021) “actualmente, es muy común ver cómo los programas de edición de fotos se han convertido en algo tan importante y fundamental, al momento de revelar al mundo la imagen perfecta”</b>, el uso de un software de edición hace maravillas en el proceso. La mayoría de las técnicas de edición se basan en cierta medida en la iluminación, las fotos se escriben en la luz, sin una buena exposición de luz difícilmente se obtendría una buena fotografía, por eso, hay que editar estos valores a la hora de llevar la imagen un paso más allá. 
+      p.col-lg-8.pe-lg-4.mb-0.order-2.order-lg-1 Editar fotografía es un proceso que muchos profesionales hacen con tanta naturalidad que permiten recomendar ciertas estrategias para intervenir una imagen antes de sacarla a la luz como lo dice <b>Rodríguez (2021) “actualmente, es muy común ver cómo los programas de edición de fotos se han convertido en algo tan importante y fundamental, al momento de revelar al mundo la imagen perfecta”</b>, el uso de un <em>software</em> de edición hace maravillas en el proceso. La mayoría de las técnicas de edición se basan en cierta medida en la iluminación, las fotos se escriben en la luz, sin una buena exposición de luz difícilmente se obtendría una buena fotografía, por eso, hay que editar estos valores a la hora de llevar la imagen un paso más allá. 
         br
         br
-        | Un software se puede definir como un programa, o conjunto de programas, que permiten manipular una diversa cantidad de herramientas y elementos intangibles que permiten desarrollar diferentes tipos de acciones y tareas dentro de un sistema informático. Si bien es cierto existen diversidad de programas para el manejo y el uso de ilustración digital, <b>Adobe es una de las empresas más importantes</b> y especializadas en programas de software de diseño que integra muchas herramientas enfocadas a la ilustración, el video, el arte y la fotografía entre otros en su Suite Creative Cloud, es por eso que se hablará primero de un software para edición de imágenes en un ordenador, seguido se hablará de un editor de fotografías en un dispositivo móvil.
+        | Un <em>software</em> se puede definir como un programa, o conjunto de programas, que permiten manipular una diversa cantidad de herramientas y elementos intangibles que permiten desarrollar diferentes tipos de acciones y tareas dentro de un sistema informático. Si bien es cierto existen diversidad de programas para el manejo y el uso de ilustración digital, <b>Adobe es una de las empresas más importantes</b> y especializadas en programas de <em>software</em> de diseño que integra muchas herramientas enfocadas a la ilustración, el video, el arte y la fotografía entre otros en su Suite Creative Cloud, es por eso que se hablará primero de un <em>software</em> para edición de imágenes en un ordenador, seguido se hablará de un editor de fotografías en un dispositivo móvil.
       img(src="@/assets/curso/temas/tema1/img-8.png" style="max-width: 400px").col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2.mx-auto
     
     .d-flex.flex-wrap.flex-lg-nowrap.align-items-center.col-lg-10.mx-auto.mb-5
       .text-decorator-left-bottom.order-2.order-lg-1
-        p El <b>software más popular en edición fotográfica</b> en el mundo occidental es Photoshop, elaborado por el fabricante de software Adobe. Es uno de los programas más importantes de edición de fotografías en la actualidad. Photoshop cuenta con grandes opciones y variabilidad, por lo tanto, se tiene posibilidades y opciones ilimitadas para la edición de imágenes, lo que la convierte en una de las mejores opciones en programas de edición del mundo. Cumple con todos los estándares y cuenta con las óptimas herramientas para una buena edición de fotografías e imágenes.
+        p El <b><em>software</em> más popular en edición fotográfica</b> en el mundo occidental es Photoshop, elaborado por el fabricante de <em>software</em> Adobe. Es uno de los programas más importantes de edición de fotografías en la actualidad. Photoshop cuenta con grandes opciones y variabilidad, por lo tanto, se tiene posibilidades y opciones ilimitadas para la edición de imágenes, lo que la convierte en una de las mejores opciones en programas de edición del mundo. Cumple con todos los estándares y cuenta con las óptimas herramientas para una buena edición de fotografías e imágenes.
       img(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 146px").order-1.order-lg-2.mb-4.mb-lg-0.mx-auto.ms-lg-4
 
     .cajon.color-acento-botones.p-4.mb-5.bg-cajon-edit.col-lg-10.mx-auto.mb-5
       img(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 80px").mx-2.mx-lg-4
       p.mb-0 La edición de imágenes es una opción para <b>alterar cualquier imagen</b>, ya sea un dibujo, fotografías y retratos digitales o analógicos. 
     
-    p.mb-5 En <b>Photoshop</b> las técnicas de edición son variadas y van muy del gusto del editor, en el siguiente recurso podrá ver algunas de las opciones más populares a usar cuando se realiza edición en este software:
+    p.mb-5 En <b>Photoshop</b> las técnicas de edición son variadas y van muy del gusto del editor, en el siguiente recurso podrá ver algunas de las opciones más populares a usar cuando se realiza edición en este <em>software</em>:
 
     .tarjeta.tarjeta--azul.col-xl-10.p-4.p-xl-5.mb-5.mx-auto
       SlyderA(tipo="b")
         .col-11.mx-auto
-          img(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 860px").mb-4
           p <span class="fw-bold">Afilado y suavizado</span>
-            br
-            | Con esta herramienta se puede generar un efecto más nítido o borroso en las imágenes. Para aplicarla, seleccione la imagen principal y elija efectos de suavizado. Esta opción se utiliza especialmente en los retratos para crear un mejor enfoque en el usuario.
+          img(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 860px").mb-4
+          p Con esta herramienta se puede generar un efecto más nítido o borroso en las imágenes. Para aplicarla, seleccione la imagen principal y elija efectos de suavizado. Esta opción se utiliza especialmente en los retratos para crear un mejor enfoque en el usuario.
 
         .col-11.mx-auto
-          img(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 860px").mb-4
           p <span class="fw-bold">Recortar</span>
-            br
-            | Esta herramienta permite seleccionar una parte de la imagen la cual se desea conservar, eliminando el resto de la imagen que no es útil dentro de una composición.
+          img(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 860px").mb-4
+          p Esta herramienta permite seleccionar una parte de la imagen la cual se desea conservar, eliminando el resto de la imagen que no es útil dentro de una composición.
         
         .col-11.mx-auto
-          img(src="@/assets/curso/temas/tema1/img-13.png" style="max-width: 860px").mb-4
           p <span class="fw-bold">Alteración del tamaño de la imagen</span>
-            br
-            | Por lo general, la mayoría de programas de diseño la manejan, esta amplía o reduce una imagen según el gusto del usuario.
+          img(src="@/assets/curso/temas/tema1/img-13.png" style="max-width: 860px").mb-4
+          p Por lo general, la mayoría de programas de diseño la manejan, esta amplía o reduce una imagen según el gusto del usuario.
 
         .col-11.mx-auto
-          img(src="@/assets/curso/temas/tema1/img-14.png" style="max-width: 860px").mb-4
           p <span class="fw-bold">Fusión de imágenes</span>
-            br
-            | Esta herramienta permite que dos o más imágenes separadas se agrupen para crear una sola.
+          img(src="@/assets/curso/temas/tema1/img-14.png" style="max-width: 860px").mb-4
+          p Esta herramienta permite que dos o más imágenes separadas se agrupen para crear una sola.
 
 
     p.mb-5 Adicional a las técnicas de edición mostradas anteriormente, Photoshop sirve para hacer varias cosas más, las personas usan Photoshop habitualmente en las siguientes tareas:
@@ -177,7 +173,7 @@
           p.mb-0.ps-4 <span class="fw-bold">Retoque</span>
             br
             br
-            Los ajustes de las imágenes se pueden dar en escenarios básicos como el contraste, la exposición, el brillo y opciones avanzadas, a diferencia de otras herramientas. La edición de imágenes no es destructiva. Es decir, se puede retocar la imagen de acuerdo con el gusto del usuario, Lightroom permite siempre volver a la imagen original. De esta forma, se puede mantener la foto original y usar configuraciones que se pueden cambiar en cualquier momento sin afectar la calidad de la fotografía. Una muy importante ventaja de esta edición es la posibilidad de aplicar arreglos a otras imágenes.
+            | Los ajustes de las imágenes se pueden dar en escenarios básicos como el contraste, la exposición, el brillo y opciones avanzadas, a diferencia de otras herramientas. La edición de imágenes no es destructiva. Es decir, se puede retocar la imagen de acuerdo con el gusto del usuario, Lightroom permite siempre volver a la imagen original. De esta forma, se puede mantener la foto original y usar configuraciones que se pueden cambiar en cualquier momento sin afectar la calidad de la fotografía. Una muy importante ventaja de esta edición es la posibilidad de aplicar arreglos a otras imágenes.
       
       .row.align-items-center(titulo="Procesado")
         img(src='@/assets/curso/temas/tema1/img-21.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
@@ -187,7 +183,7 @@
             br
             | Tal como lo dice Fotonostra (s. f.) el procesado es “todo el camino que recorremos desde que disparamos con la cámara de fotos hasta que tenemos la imagen en nuestras manos” (Párr. 1). En otras palabras, es el paso a paso para hacer una fotografía, en su sentido más amplio y práctico. Es importante conocer qué tipo de sensor tiene la cámara de su dispositivo móvil, con el fin que le pueda dar el uso apropiado, los fabricantes de teléfonos inteligentes suelen buscar formas de tener en cuenta Internet para obtener imágenes que puedan compartirse o cargarse fácilmente en las redes sociales, permitiendo la opción de guardar las fotografías en formatos DNG o JPG.
     
-    p.mb-5 Para profundizar sobre cómo funciona el software Lightroom, se recomienda observar el siguiente video:
+    p.mb-5 Para profundizar sobre cómo funciona el <em>software</em> Lightroom, se recomienda observar el siguiente video:
 
     figure.mb-5.video1
       .video
@@ -208,52 +204,48 @@
       .py-3.py-md-4(titulo="Adobe Photoshop Express")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-22.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 Sin duda alguna es la herramienta más completa del mercado ya que permite ajustar los tamaños de las imágenes.  Adicionalmente, cuenta con la opción HDR, que es la que mejora las fotografías en perspectiva, así como el ajuste de la imagen de acuerdo con su necesidad, saturación, sombras, brillo, contraste, entre otras. Uno de sus más grandes atractivos es determinar una sección de la foto y aplicarle el filtro que desee en vivo; esta aplicación está en capacidad de procesar archivos RAW, en los cuales, los filtros se fusionan en capas permitiendo observar las modificaciones realizadas dando la ventaja de ajustar individualmente las imágenes. Esta herramienta es muy funcional para iOS y Android  .
+          p.ps-xl-4.mb-0 <span class="fw-bold">Adobe Photoshop Express: </span>Sin duda alguna es la herramienta más completa del mercado ya que permite ajustar los tamaños de las imágenes.  Adicionalmente, cuenta con la opción HDR, que es la que mejora las fotografías en perspectiva, así como el ajuste de la imagen de acuerdo con su necesidad, saturación, sombras, brillo, contraste, entre otras. Uno de sus más grandes atractivos es determinar una sección de la foto y aplicarle el filtro que desee en vivo; esta aplicación está en capacidad de procesar archivos RAW, en los cuales, los filtros se fusionan en capas permitiendo observar las modificaciones realizadas dando la ventaja de ajustar individualmente las imágenes. Esta herramienta es muy funcional para iOS y Android  .
 
       .py-3.py-md-4(titulo="Pixlr")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-23.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 Ideal para editar fotos desde cualquier dispositivo móvil, permite realizar acciones primordiales de edición de imágenes, contraste, perspectiva, saturación, exposición y eliminación de puntos. De igual forma permite editar imágenes guardadas en un dispositivo las cuales pueden ser llevadas de forma directa desde Adobe Creative Cloud, Dropbox, Facebook o Google Photos. 
+          p.ps-xl-4.mb-0 <span class="fw-bold">Pixlr: </span>Ideal para editar fotos desde cualquier dispositivo móvil, permite realizar acciones primordiales de edición de imágenes, contraste, perspectiva, saturación, exposición y eliminación de puntos. De igual forma permite editar imágenes guardadas en un dispositivo las cuales pueden ser llevadas de forma directa desde Adobe Creative Cloud, Dropbox, Facebook o Google Photos. 
 
       .py-3.py-md-4(titulo="Snapseed")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-24.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 Cuenta con una gran ventaja y que con esta aplicación se pueden realizar collages, con un buen manejo de espacio, multiplicidad de fondos y formatos diferentes, de igual permite diseñar fotos con doble exposición, permitiendo una combinación de fuentes ilimitada, lo más importante de esta herramienta es poder retocar luces, colores y brillos. Permite compartir las fotografías en redes sociales funcional para Android e iOS.
+          p.ps-xl-4.mb-0 <span class="fw-bold">Snapseed: </span> Cuenta con una gran ventaja y que con esta aplicación se pueden realizar collages, con un buen manejo de espacio, multiplicidad de fondos y formatos diferentes, de igual permite diseñar fotos con doble exposición, permitiendo una combinación de fuentes ilimitada, lo más importante de esta herramienta es poder retocar luces, colores y brillos. Permite compartir las fotografías en redes sociales funcional para Android e iOS.
       
       .py-3.py-md-4(titulo="VSCO Cam")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-25.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 Esta herramienta tiene unas características especiales que la hacen la predilecta a la hora de realizar ajustes de edición fotográfica para dispositivos móviles, permite de manera fácil modificar la  exposición y el contraste, con la ventaja que modificará de forma rápida la temperatura de tus fotos, con resultado óptimo, su fuerte es el manejo de filtros, nitidez, brillos, saturación, exposición entre otros, de igual forma tiene filtros prefijados y suaves de fácil uso los que permiten observar de forma rápida como queda la foto después de usar la herramienta, casi que a simple vista pareciera que no tiene filtros la imagen. Las fotos se podrán exportar directamente en redes sociales, compatibles con iOS y Android.
+          p.ps-xl-4.mb-0 <span class="fw-bold">VSCO Cam: </span> Esta herramienta tiene unas características especiales que la hacen la predilecta a la hora de realizar ajustes de edición fotográfica para dispositivos móviles, permite de manera fácil modificar la  exposición y el contraste, con la ventaja que modificará de forma rápida la temperatura de tus fotos, con resultado óptimo, su fuerte es el manejo de filtros, nitidez, brillos, saturación, exposición entre otros, de igual forma tiene filtros prefijados y suaves de fácil uso los que permiten observar de forma rápida como queda la foto después de usar la herramienta, casi que a simple vista pareciera que no tiene filtros la imagen. Las fotos se podrán exportar directamente en redes sociales, compatibles con iOS y Android.
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_3 1.3 Editores con pago
 
-    p.mb-5 Además de editores gratuitos, el mercado de los fotógrafos está abierto para todas las <b>casas realizadoras de software</b> con varias aplicaciones que sirven desde la gestión básica de imágenes con retoques, como recortar y girar hasta grandes efectos como solarización, capas de composición o montajes múltiples. A continuación, se comparten algunas herramientas que son fáciles de adquirir,  pagando por su uso en el computador o en algún dispositivo móvil:     
+    p.mb-5 Además de editores gratuitos, el mercado de los fotógrafos está abierto para todas las <b>casas realizadoras de <em>software</em></b> con varias aplicaciones que sirven desde la gestión básica de imágenes con retoques, como recortar y girar hasta grandes efectos como solarización, capas de composición o montajes múltiples. A continuación, se comparten algunas herramientas que son fáciles de adquirir,  pagando por su uso en el computador o en algún dispositivo móvil:     
 
     TabsA.color-acento-botones.mb-5.pestanas-a
       .tarjeta.color-acento-botones--borde.p-4(titulo="Photos Pos Pro" style="background-color: #F0F8FF; border-color: #F0F8FF;")
-        p.fw-bold Photos Pos Pro
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-26.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
-          p.col-12-col-xl-7.ps-lg-4.mb-0 Esta interfaz permite editar las fotografías con dos interfaces diferentes, cuenta con un diseño avanzado puesto que maneja una gama amplia de herramientas de edición la cual incluye texturas, degradados, pinceles, máscaras, capas y conversión RAW, otra gran ventaja es que se pueden realizar ediciones en grandes espacios de imágenes, esto disminuye el tiempo de edición de forma ordenada y automática, al usuario le llama mucho la atención las mejoras que presentan las imágenes con intermedio de los filtros y efectos creativos con los que cuenta la herramienta y que son de fácil manipulación.
+          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">Photos Pos Pro: </span> Esta interfaz permite editar las fotografías con dos interfaces diferentes, cuenta con un diseño avanzado puesto que maneja una gama amplia de herramientas de edición la cual incluye texturas, degradados, pinceles, máscaras, capas y conversión RAW, otra gran ventaja es que se pueden realizar ediciones en grandes espacios de imágenes, esto disminuye el tiempo de edición de forma ordenada y automática, al usuario le llama mucho la atención las mejoras que presentan las imágenes con intermedio de los filtros y efectos creativos con los que cuenta la herramienta y que son de fácil manipulación.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="GIMP" style="background-color: #F0F8FF; border-color: #F0F8FF;")
-        p.fw-bold GIMP
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-27.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
-          p.col-12-col-xl-7.ps-lg-4.mb-0 Se considera el mejor editor de fotografía disponible en el mercado. Este software cuenta con una gama amplia de herramientas, tales como; operaciones básicas y funciones con calidad a nivel profesional. Los usuarios que empiezan en mundo fotográfico podrán beneficiarse de sus herramientas de selección, ajuste de color, montajes, recorte y retoque de imagen automática. Es un software de código abierto, lo que permite que se actualice constantemente.
+          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">GIMP: </span> Se considera el mejor editor de fotografía disponible en el mercado. Este <em>software</em> cuenta con una gama amplia de herramientas, tales como; operaciones básicas y funciones con calidad a nivel profesional. Los usuarios que empiezan en mundo fotográfico podrán beneficiarse de sus herramientas de selección, ajuste de color, montajes, recorte y retoque de imagen automática. Es un <em>software</em> de código abierto, lo que permite que se actualice constantemente.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Paint.net" style="background-color: #F0F8FF; border-color: #F0F8FF;")
-        p.fw-bold Paint.net
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-28.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
-          p.col-12-col-xl-7.ps-lg-4.mb-0 Cuenta con una interfaz directa y clara al momento de ser utilizada, es un software de fácil uso, proporciona una variada gama de herramientas de edición como brillo, contraste, tonos, curvas, niveles, niveles y degradados. También, admite complementos creados por la comunidad de desarrolladores. Estos complementos se pueden usar para acceder a funciones avanzadas, haciendo referencia a la conocida herramienta de rotación/zoom 3D para la reconstrucción de imágenes.
+          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">Paint.net: </span> Cuenta con una interfaz directa y clara al momento de ser utilizada, es un <em>software</em> de fácil uso, proporciona una variada gama de herramientas de edición como brillo, contraste, tonos, curvas, niveles, niveles y degradados. También, admite complementos creados por la comunidad de desarrolladores. Estos complementos se pueden usar para acceder a funciones avanzadas, haciendo referencia a la conocida herramienta de rotación/zoom 3D para la reconstrucción de imágenes.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="PhotoScape X" style="background-color: #F0F8FF; border-color: #F0F8FF;")
-        p.fw-bold PhotoScape X
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-29.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
-          p.col-12-col-xl-7.ps-lg-4.mb-0 Este software se conoce como todo en uno, ya que con un solo clic se perciben cambios en las imágenes de forma notoria y con facilidad, cuenta con un sinfín de filtros, marcos, pinceles, herramientas de recorte inteligentes, selectores de color y de clonación. El editor también proporciona una variedad de materiales de edición por lotes, entre ellos cambiar el tamaño y cambiar el nombre del archivo y el formato. Los fotógrafos pueden aprovechar al máximo la función de conversión RAW. De igual forma incluye opciones bastante creativas, collages, fusiones, efectos, texto y pinceles. Dichas funciones son especiales para aquellos creadores de contenido digital preferiblemente para perfiles de redes sociales o campañas de email marketing, cuenta con tutoriales en video de cada herramienta con el fin de conseguir el efecto deseado.
+          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">PhotoScape X: </span> Este <em>software</em> se conoce como todo en uno, ya que con un solo clic se perciben cambios en las imágenes de forma notoria y con facilidad, cuenta con un sinfín de filtros, marcos, pinceles, herramientas de recorte inteligentes, selectores de color y de clonación. El editor también proporciona una variedad de materiales de edición por lotes, entre ellos cambiar el tamaño y cambiar el nombre del archivo y el formato. Los fotógrafos pueden aprovechar al máximo la función de conversión RAW. De igual forma incluye opciones bastante creativas, collages, fusiones, efectos, texto y pinceles. Dichas funciones son especiales para aquellos creadores de contenido digital preferiblemente para perfiles de redes sociales o campañas de <em>email marketing</em>, cuenta con tutoriales en video de cada herramienta con el fin de conseguir el efecto deseado.
   
 </template>
 

@@ -7,20 +7,20 @@
         span(style="color: white") 7
       h1 Publicación de fotografías
 
-    p.mb-4 Las redes sociales son un puente de comunicación entre los emprendedores y los potenciales clientes, por ello la importancia de que esta conexión sea lo más duradera posible ya que día a día los mercados evolucionan y se fortalecen con una imagen de marca, la estructura debe ser fuerte, para que perdure en el tiempo. La fotografía es la herramienta básica de este proceso, y las imágenes son tan importantes como la forma en que se comunica, dando vida al proyecto, ordenándolo y definiéndolo. Un perfil que contiene fotos profesionales y debidamente iluminadas no da la misma impresión que un perfil que contiene fotos oscuras y de baja definición. Todo pasa por el mundo del marketing digital.
+    p.mb-4 Las redes sociales son un puente de comunicación entre los emprendedores y los potenciales clientes, por ello la importancia de que esta conexión sea lo más duradera posible ya que día a día los mercados evolucionan y se fortalecen con una imagen de marca, la estructura debe ser fuerte, para que perdure en el tiempo. La fotografía es la herramienta básica de este proceso, y las imágenes son tan importantes como la forma en que se comunica, dando vida al proyecto, ordenándolo y definiéndolo. Un perfil que contiene fotos profesionales y debidamente iluminadas no da la misma impresión que un perfil que contiene fotos oscuras y de baja definición. Todo pasa por el mundo del <em>marketing</em> digital.
 
     .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.mb-5
       p.col-xl-7.pe-xl-4.order-2.order-xl-1 La imagen lo es todo, representa la identidad de la marca, de igual forma determina sus potenciales seguidores. Es importante determinar el tipo de personas a las que está destinada la publicación de un bien, servicio o producto. Por esta razón, las fotos son muy importantes. Determine muy bien su nicho de intervención es importante que la foto sea lo más auténtica posible, con el fin de que el consumidor no se desligue del producto original. Vale la pena señalar que la transparencia y la comunicación son las bases para conectarse con los seguidores. 
         br
         br
-        |Por ejemplo, en Instagram, es importante tener un feed (espacio visual) bien organizado y ordenado que transmita los ideales de la marca y su simbología de colores. En este caso, si se maneja una paleta de colores es importante que esta sea armoniosa y consistente
+        |Por ejemplo, en Instagram, es importante tener un <em>feed</em> (espacio visual) bien organizado y ordenado que transmita los ideales de la marca y su simbología de colores. En este caso, si se maneja una paleta de colores es importante que esta sea armoniosa y consistente
       img(src="@/assets/curso/temas/tema7/img-1.png" style="max-width: 504px").order-1.order-xl-2.mb-4.mb-xl-0.mx-auto
 
     .d-flex.flex-wrap.flex-md-nowrap.align-items-center.mb-5.col-lg-8.mx-auto
       img(src="@/assets/curso/temas/tema7/img-2.png" style="max-width: 63px").mb-4.mb-md-0.mb-4.mb-md-0.mx-auto
       .ps-md-4
         .text-decorator-top-right
-          p En este aparte se tomará como referencia la red social Instagram y cómo se puede subir una imagen desde un dispositivo móvil y desde un ordenador.
+          p En este aparte se tomará como referencia la <em>red</em> social Instagram y cómo se puede subir una imagen desde un dispositivo móvil y desde un ordenador.
     .d-flex.mb-5
       .title-edit-lvl1
         h2 Cómo subir fotos a Instagram desde el dispositivo móvil
@@ -44,19 +44,19 @@
       .tarjeta.color-acento-botones.d-flex.flex-wrap.flex-xl-nowrap(titulo="Paso 3" style="background-color: #FAF1BF; border-radius: 0")
         p.p-3.p-xl-4.mb-0.order-2.order-xl-1 <b>Paso 3</b>
           br
-          | Luego otro panel se abrirá y en la imagen que se determinó subir, se podrán observar las otras opciones disponibles para editar la imagen, ajustar tamaño, contraste, filtro, brillo, desenfoque, entre otros, el usuario determina la imagen con las características que desea tener para subirla a la red, posterior a ello, debe presionar nuevamente la flecha, que significa siguiente.
+          | Luego otro panel se abrirá y en la imagen que se determinó subir, se podrán observar las otras opciones disponibles para editar la imagen, ajustar tamaño, contraste, filtro, brillo, desenfoque, entre otros, el usuario determina la imagen con las características que desea tener para subirla a la <em>red</em>, posterior a ello, debe presionar nuevamente la flecha, que significa siguiente.
         img(src="@/assets/curso/temas/tema7/img-6.png" style="max-width: 295px").mx-auto.my-4.my-xl-0.order-1.order-xl-2
       
       .tarjeta.color-acento-botones.d-flex.flex-wrap.flex-xl-nowrap(titulo="Paso 4" style="background-color: #FAF1BF; border-radius: 0")
         p.p-3.p-xl-4.mb-0.order-2.order-xl-1 <b>Paso 4</b>
           br
-          | Para publicar la imagen seleccionada solo se tendrá que añadir un pie de estado, la etiqueta de otros usuarios, la ubicación y la red social en donde se desea que también sea compartida, claro está que esto no es obligatorio, pero sí importante; cuando ya esté lista la publicación, presione sobre el símbolo √   que se encuentra en la parte superior derecha.
+          | Para publicar la imagen seleccionada solo se tendrá que añadir un pie de estado, la etiqueta de otros usuarios, la ubicación y la <em>red</em> social en donde se desea que también sea compartida, claro está que esto no es obligatorio, pero sí importante; cuando ya esté lista la publicación, presione sobre el símbolo √   que se encuentra en la parte superior derecha.
         img(src="@/assets/curso/temas/tema7/img-7.png" style="max-width: 295px").mx-auto.my-4.my-xl-0.order-1.order-xl-2
       
       .tarjeta.color-acento-botones.d-flex.flex-wrap.flex-xl-nowrap(titulo="Paso 5" style="background-color: #FAF1BF; border-radius: 0")
         p.p-3.p-xl-4.mb-0.order-2.order-xl-1 <b>Paso 5</b>
           br
-          | Luego, ya se verá como la imagen es publicada en la red social.
+          | Luego, ya se verá como la imagen es publicada en la <em>red</em> social.
         img(src="@/assets/curso/temas/tema7/img-8.png" style="max-width: 295px").mx-auto.my-4.my-xl-0.order-1.order-xl-2
 
     .d-flex.mb-5
@@ -104,6 +104,8 @@
     figure.mb-5.video1
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/CPbp3zK0p1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    p.mb-5 Con esta información se da por concluida la parte teórica del componente formativo. No olvide revisar el material complementario.
 </template>
 
 <script>

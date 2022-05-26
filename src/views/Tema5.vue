@@ -141,7 +141,7 @@
           p <b>1. Problema o propósito</b>
             br
             br
-            | Posicionar un nuevo producto gastronómico orgánico (bebida natural a base de frutas) enfocado en un segmento del mercado fitness por medio de la fotografía de producto.
+            | Posicionar un nuevo producto gastronómico orgánico (bebida natural a base de frutas) enfocado en un segmento del mercado <em>fitness</em> por medio de la fotografía de producto.
         .col-xl-6.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto
           img(src='@/assets/curso/temas/tema5/img-4.png' style="max-width: 620px")
       
@@ -150,7 +150,7 @@
           p <b>2. Análisis de datos</b>
             br
             br
-            | Se procederá a analizar las tendencias fotográficas del mercado fitness de los últimos seis meses y ver por medio de qué técnicas (composición, iluminación, styling, etc.) estos se han posicionado.
+            | Se procederá a analizar las tendencias fotográficas del mercado <em>fitness</em> de los últimos seis meses y ver por medio de qué técnicas (composición, iluminación, <em>styling</em>, etc.) estos se han posicionado.
         .col-xl-6.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto
           img(src='@/assets/curso/temas/tema5/img-5.png' style="max-width: 620px")
       
@@ -195,7 +195,7 @@
           p <b>7. Conclusión</b>
             br
             br
-            | Se concluye que la fotografía obtenida cumple con el objetivo de posicionar la nueva bebida natural a base de frutas enfocada en un segmento del mercado fitness, ya que hubo un estudio juicioso de los referentes existentes y se tomó la decisión de transmitir el mensaje de frescura de sus ingredientes. Sin embargo, se ve la necesidad de analizar con mayor frecuencia los referentes fotográficos del mercado ya que las tendencias asociadas al público fitness cambian rápidamente al igual que la fotografía de producto.
+            | Se concluye que la fotografía obtenida cumple con el objetivo de posicionar la nueva bebida natural a base de frutas enfocada en un segmento del mercado <em>fitness</em>, ya que hubo un estudio juicioso de los referentes existentes y se tomó la decisión de transmitir el mensaje de frescura de sus ingredientes. Sin embargo, se ve la necesidad de analizar con mayor frecuencia los referentes fotográficos del mercado ya que las tendencias asociadas al público <em>fitness</em> cambian rápidamente al igual que la fotografía de producto.
         .col-xl-6.order-1.order-xl-2.mb-4.mb-xl-0.mx-auto
           img(src='@/assets/curso/temas/tema5/img-10.png' style="max-width: 620px")
       
@@ -237,7 +237,7 @@
         p.col-xl-8.mx-auto <b>Pinterest</b>
           br
           br
-          | Es una plataforma basada principalmente en imágenes y una red social online gratuita, que permite a los usuarios crear y administrar el contenido de tableros temáticos creados por ellos mismos, por medio de la recolección y almacenamiento de diferentes imágenes, intereses y aficiones. Es la más utilizada en la actualidad, debido a la gran colección de imágenes y videos que posee. Una de sus principales ventajas es que se puede añadir colaboradores a los tableros de la red de usuarios, para que nutran este mismo.
+          | Es una plataforma basada principalmente en imágenes y una <em>red</em> social <em>online</em> gratuita, que permite a los usuarios crear y administrar el contenido de tableros temáticos creados por ellos mismos, por medio de la recolección y almacenamiento de diferentes imágenes, intereses y aficiones. Es la más utilizada en la actualidad, debido a la gran colección de imágenes y videos que posee. Una de sus principales ventajas es que se puede añadir colaboradores a los tableros de la <em>red</em> de usuarios, para que nutran este mismo.
 
       .tarjeta.color-acento-botones.p-4.d-flex.flex-wrap.flex-xl-nowrap(style="background-color: #F7E7FF")
         img(src='@/assets/curso/temas/tema5/img-15.png' style="max-width: 210px").col-xl-4.mb-4.mb-xl-0.mx-auto.me-xl-3
@@ -259,7 +259,7 @@
         p.col-xl-8.mx-auto <b>Niice</b>
           br
           br
-          | Esta plataforma online es un buscador de imágenes con fácil manejo que integra la construcción de colecciones o tableros visuales. Con solo arrastrar al tablero indicado la imagen que se desea archivar ya la imagen queda en el lugar indicado. Una de las funciones más usadas de Niice es la integración de un add-on en el navegador para guardar imágenes directamente mientras el usuario navega por internet.
+          | Esta plataforma <em>online</em> es un buscador de imágenes con fácil manejo que integra la construcción de colecciones o tableros visuales. Con solo arrastrar al tablero indicado la imagen que se desea archivar ya la imagen queda en el lugar indicado. Una de las funciones más usadas de Niice es la integración de un add-on en el navegador para guardar imágenes directamente mientras el usuario navega por internet.
 
       .tarjeta.color-acento-botones.p-4.d-flex.flex-wrap.flex-xl-nowrap(style="background-color: #F7E7FF")
         img(src='@/assets/curso/temas/tema5/img-19.png' style="max-width: 210px").col-xl-4.mb-4.mb-xl-0.mx-auto.me-xl-3
@@ -354,7 +354,7 @@ export default {
       {
         title: '01. Propósito',
         content:
-          '¿Qué se quiere alcanzar? Plantear un proyecto o un reto determinado. En esta fase se debe determinar la dimensión y alcance que este proyecto tiene. Por ejemplo, es diferente fotografiar un producto en fondo blanco, que realizar una fotografía con escenografía y styling. También es el momento de plantear los objetivos del proyecto y de analizar cómo se van a llevar a cabo.',
+          '¿Qué se quiere alcanzar? Plantear un proyecto o un reto determinado. En esta fase se debe determinar la dimensión y alcance que este proyecto tiene. Por ejemplo, es diferente fotografiar un producto en fondo blanco, que realizar una fotografía con escenografía y <em>styling</em>. También es el momento de plantear los objetivos del proyecto y de analizar cómo se van a llevar a cabo.',
       },
       {
         title: '02. Análisis de datos',

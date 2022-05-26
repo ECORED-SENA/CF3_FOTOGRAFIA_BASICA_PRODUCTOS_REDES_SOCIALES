@@ -11,7 +11,7 @@
       img(src="@/assets/curso/temas/tema4/img-1.png" style="max-width: 400px").col-xl-5.mb-5.mb-xl-0.mb-xl-auto.mx-auto
       .col-xl-7.ps-xl-5.pt-xl-4
         .text-decorator-top-left
-          p En la fotografía es muy común la exportación de los productos gráficos los cuales pueden usarse para una variedad de propósitos, el propósito más popular para este programa es publicar productos en redes sociales, foros, blogs e incluso subir fotos a su sitio web o enviarlas por correo electrónico, aquí se tomará como referencia el software Lightroom, que le permitirá entender de qué trata el contexto de la exportación de imágenes.
+          p En la fotografía es muy común la exportación de los productos gráficos los cuales pueden usarse para una variedad de propósitos, el propósito más popular para este programa es publicar productos en redes sociales, foros, <em>blogs</em> e incluso subir fotos a su sitio web o enviarlas por correo electrónico, aquí se tomará como referencia el <em>software</em> Lightroom, que le permitirá entender de qué trata el contexto de la exportación de imágenes.
             br
             br
             | Se deben tener en cuenta las siguientes indicaciones al momento de exportar una imagen: 
@@ -30,7 +30,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img-3.png', alt='Formato JPEG').mb-4.mb-md-0
           .col-md-6.mb-4.mb-md-0.d-flex.align-items-center
-            p El formato a utilizar en la red social es JPEG (la mejor calidad) o TIFF (impresos), ya que archivos de imagen que no cuentan con compresión y permiten un mayor almacenamiento de información, contrario a un archivo JPG que es un formato de imagen con compresión, cualquiera de los dos archivos nombrados le servirá para una excelente impresión, si el final del archivo es digital o red social es mejor trabajar JPEG.
+            p El formato a utilizar en la red social es JPEG (la mejor calidad) o TIFF (impresos), ya que archivos de imagen que no cuentan con compresión y permiten un mayor almacenamiento de información, contrario a un archivo JPG que es un formato de imagen con compresión, cualquiera de los dos archivos nombrados le servirá para una excelente impresión, si el final del archivo es digital o <em>red</em> social es mejor trabajar JPEG.
 
         .row.col-xl-11.mx-auto(titulo="Paso 03")
           .col-md-6.px-0.px-md-2
@@ -41,7 +41,7 @@
         
         .row.col-xl-11.mx-auto(titulo="Paso 04")
           .mb-4.mb-md-0.d-flex.align-items-center
-            p Es muy importante darle una ubicación al archivo para poder exportarlo, este paso es muy sencillo ya que se pueden generar carpetas las cuales de forma automática quedarán establecidas al momento de exportar los archivos, en ocasiones con el archivo anteriormente guardado, debe indicarle al programa si se debe sobrescribir el archivo, no hacer nada o simplemente verificar cada vez que desee exportar. Al momento de nombrar un archivo el software permitirá ordenarlos con una secuencia automática numérica de cada foto, dándole nombre y fecha.
+            p Es muy importante darle una ubicación al archivo para poder exportarlo, este paso es muy sencillo ya que se pueden generar carpetas las cuales de forma automática quedarán establecidas al momento de exportar los archivos, en ocasiones con el archivo anteriormente guardado, debe indicarle al programa si se debe sobrescribir el archivo, no hacer nada o simplemente verificar cada vez que desee exportar. Al momento de nombrar un archivo el <em>software</em> permitirá ordenarlos con una secuencia automática numérica de cada foto, dándole nombre y fecha.
 
         .row.col-xl-11.mx-auto(titulo="Paso 05")
           .col-md-6.px-0.px-md-2

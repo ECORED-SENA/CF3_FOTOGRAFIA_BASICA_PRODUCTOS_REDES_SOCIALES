@@ -191,17 +191,7 @@ export default {
     {
       termino: 'CMYK',
       significado:
-        'el modelo CMYK (siglas de Cyan, Magenta, Yellow y Key) es un modelo de color sustractivo que se utiliza en la impresión en colores. Es la versión moderna y más precisa del antiguo modelo tradicional de coloración (RGB).',
-    },
-    {
-      termino: 'Creatividad',
-      significado:
-        'capacidad de crear pensamientos nuevos a partir de ideas o conceptos ya conocidos.',
-    },
-    {
-      termino: 'Escenografía',
-      significado:
-        'grupo de elementos que son utilizados para ambientar y contextualizar un entorno determinado en una escena audiovisual. Estos elementos pueden ser de iluminación, de decoración o utilería.',
+        'el modelo CMYK (siglas de <em>Cyan</em>, <em>Magenta</em>, <em>Yellow</em> y <em>Key</em>) es un modelo de color sustractivo que se utiliza en la impresión en colores. Es la versión moderna y más precisa del antiguo modelo tradicional de coloración (RGB).',
     },
     {
       termino: '<em>Hashtag</em>',
@@ -219,9 +209,9 @@ export default {
         'en el mundo virtual son sitios y aplicaciones que operan en niveles diversos –como el profesional, de relación, entre otros– pero siempre permitiendo el intercambio de información entre personas y/o empresas.',
     },
     {
-      termino: 'Mapa de bits',
+      termino: 'Mapa de <em>bits</em>',
       significado:
-        'imagen que justamente se presenta en mapa de bits, consiste en una estructura de forma rectangular formada por píxeles o puntos de color, y que puede visualizarse en un monitor, en un papel, o en cualquier otro dispositivo que permita la representación de imágenes.',
+        'imagen que justamente se presenta en mapa de <em>bits</em>, consiste en una estructura de forma rectangular formada por píxeles o puntos de color, y que puede visualizarse en un monitor, en un papel, o en cualquier otro dispositivo que permita la representación de imágenes.',
     },
     {
       termino: 'Paleta de color',
@@ -247,11 +237,6 @@ export default {
       termino: 'Creatividad',
       significado:
         'capacidad de crear pensamientos nuevos a partir de ideas o conceptos ya conocidos.',
-    },
-    {
-      termino: 'Paleta de color',
-      significado:
-        'grupo de colores, que el ojo humano puede captar. Se ubican específicamente dentro de un círculo que permite ver y entender los diferentes tonos que componen la paleta de color. Es indispensable para la realización de piezas visuales y gráficas.',
     },
   ],
   referencias: [
@@ -412,23 +397,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
