@@ -11,7 +11,7 @@
       img(src="@/assets/curso/temas/tema4/img-1.png" style="max-width: 400px").col-xl-5.mb-5.mb-xl-0.mb-xl-auto.mx-auto
       .col-xl-7.ps-xl-5.pt-xl-4
         .text-decorator-top-left
-          p En la fotografía es muy común la exportación de los productos gráficos los cuales pueden usarse para una variedad de propósitos, el propósito más popular para este programa es publicar productos en redes sociales, foros, <em>blogs</em> e incluso subir fotos a su sitio web o enviarlas por correo electrónico, aquí se tomará como referencia el <em>software</em> Lightroom, que le permitirá entender de qué trata el contexto de la exportación de imágenes.
+          p En la fotografía es muy común la exportación de los productos gráficos los cuales pueden usarse para una variedad de propósitos, el propósito más popular para este programa es publicar productos en redes sociales, foros, <em>blogs</em> e incluso subir fotos a su sitio <em>web</em> o enviarlas por correo electrónico, aquí se tomará como referencia el <em>software</em> Lightroom, que le permitirá entender de qué trata el contexto de la exportación de imágenes.
             br
             br
             | Se deben tener en cuenta las siguientes indicaciones al momento de exportar una imagen: 

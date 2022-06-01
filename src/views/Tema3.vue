@@ -68,7 +68,7 @@
           .p-4.ps-5
             .h5.mb-2 BMP (<em>Bits Maps Protocole</em>)
             br
-            p Es el formato hecho para los ambientes de trabajo del sistema operativo Windows, con el tiempo ha perdido uso pero es probable que en algún sitio web de descarga encuentre imágenes de este tipo que tienen buena calidad visual para pantallas de computadores Windows, no se recomienda su uso para más tareas.
+            p Es el formato hecho para los ambientes de trabajo del sistema operativo Windows, con el tiempo ha perdido uso pero es probable que en algún sitio <em>web</em> de descarga encuentre imágenes de este tipo que tienen buena calidad visual para pantallas de computadores Windows, no se recomienda su uso para más tareas.
 
       .tarjeta.color-acento-botones(x="42%" y="32%" numero="")
         .d-flex.position-relative

@@ -9,7 +9,7 @@
 
     .d-flex.flex-wrap.flex-xl-nowrap
       .col-xl-7.order-2.order-xl-1
-        p Las redes sociales para fotografía son herramientas que no solo publican sus fotos, sino que las convierten en páginas web oficiales para dar a conocer un trabajo, producto o servicio. Son una <em>red</em> de intercambio de ideas, compras y ventas de productos. Estas redes sociales tienen la oportunidad de mostrar fotos sin comprometer la calidad. Esto es ideal porque algunas redes sociales y aplicaciones reducirán el tamaño y la calidad al cargar. Para empezar a trabajar en las redes sociales, es importante aclarar algunos aspectos. Pueden parecer un poco obvios, pero aprovecharlos al máximo, ayudará a asegurar un mayor alcance.
+        p Las redes sociales para fotografía son herramientas que no solo publican sus fotos, sino que las convierten en páginas <em>web</em> oficiales para dar a conocer un trabajo, producto o servicio. Son una <em>red</em> de intercambio de ideas, compras y ventas de productos. Estas redes sociales tienen la oportunidad de mostrar fotos sin comprometer la calidad. Esto es ideal porque algunas redes sociales y aplicaciones reducirán el tamaño y la calidad al cargar. Para empezar a trabajar en las redes sociales, es importante aclarar algunos aspectos. Pueden parecer un poco obvios, pero aprovecharlos al máximo, ayudará a asegurar un mayor alcance.
         .cajon.color-acento-botones.p-4.mb-5.bg-cajon-edit
           p.mb-0 En este aparte se hablarán de las cinco redes sociales que, al año 2022, marcan tendencia a nivel mundial y dan la mejor calidad al momento de exponer su servicio o producto, cabe resaltar que las redes sociales que no se encuentren en este compendio no sean importantes.
       .col-xl-5.ps-xl-4.mb-4.mb-xl-0.order-1.order-xl-2
@@ -464,7 +464,7 @@ export default {
       {
         titulo: 'Instagram',
         content:
-          'Es una <em>red</em> de interacciones sociales a través de publicaciones fotografías, ilustraciones, videos o contenidos que no necesariamente son originales. Su uso va en aumento y es una de las redes más famosas del mundo, así que no pierda la oportunidad de subir el trabajo; se puede editar la foto y agregar subtítulos dentro de la aplicación, pero se debe asegurar el uso de hashtags para que más personas vean su foto o producto. ¿Qué es un hashtag? Es un numeral que contiene palabras que están de moda o en tendencia, y que también sirve como etiqueta de tema; siempre se debe prestar atención a las tendencias y utilizarlas para enfocar su contenido.',
+          'Es una <em>red</em> de interacciones sociales a través de publicaciones fotografías, ilustraciones, videos o contenidos que no necesariamente son originales. Su uso va en aumento y es una de las redes más famosas del mundo, así que no pierda la oportunidad de subir el trabajo; se puede editar la foto y agregar subtítulos dentro de la aplicación, pero se debe asegurar el uso de <em>Hashtags</em> para que más personas vean su foto o producto. ¿Qué es un <em>Hashtag</em>? Es un numeral que contiene palabras que están de moda o en tendencia, y que también sirve como etiqueta de tema; siempre se debe prestar atención a las tendencias y utilizarlas para enfocar su contenido.',
       },
       {
         titulo: 'Pinterest',

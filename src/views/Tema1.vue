@@ -204,22 +204,22 @@
       .py-3.py-md-4(titulo="Adobe Photoshop Express")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-22.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 <span class="fw-bold">Adobe Photoshop Express: </span>Sin duda alguna es la herramienta más completa del mercado ya que permite ajustar los tamaños de las imágenes.  Adicionalmente, cuenta con la opción HDR, que es la que mejora las fotografías en perspectiva, así como el ajuste de la imagen de acuerdo con su necesidad, saturación, sombras, brillo, contraste, entre otras. Uno de sus más grandes atractivos es determinar una sección de la foto y aplicarle el filtro que desee en vivo; esta aplicación está en capacidad de procesar archivos RAW, en los cuales, los filtros se fusionan en capas permitiendo observar las modificaciones realizadas dando la ventaja de ajustar individualmente las imágenes. Esta herramienta es muy funcional para iOS y Android  .
+          p.ps-xl-4.mb-0 Ideal para editar fotos desde cualquier dispositivo móvil, permite realizar acciones primordiales de edición de imágenes, contraste, perspectiva, saturación, exposición y eliminación de puntos. De igual forma permite editar imágenes guardadas en un dispositivo las cuales pueden ser llevadas de forma directa desde Adobe Creative Cloud, Dropbox, Facebook o Google Photos.
 
       .py-3.py-md-4(titulo="Pixlr")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-23.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 <span class="fw-bold">Pixlr: </span>Ideal para editar fotos desde cualquier dispositivo móvil, permite realizar acciones primordiales de edición de imágenes, contraste, perspectiva, saturación, exposición y eliminación de puntos. De igual forma permite editar imágenes guardadas en un dispositivo las cuales pueden ser llevadas de forma directa desde Adobe Creative Cloud, Dropbox, Facebook o Google Photos. 
+          p.ps-xl-4.mb-0 Cuenta con una gran ventaja y que con esta aplicación se pueden realizar collages, con un buen manejo de espacio, multiplicidad de fondos y formatos diferentes, de igual permite diseñar fotos con doble exposición, permitiendo una combinación de fuentes ilimitada, lo más importante de esta herramienta es      poder retocar luces, colores y brillos. Permite compartir las fotografías en redes sociales funcional para Android e iOS.
 
       .py-3.py-md-4(titulo="Snapseed")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-24.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 <span class="fw-bold">Snapseed: </span> Cuenta con una gran ventaja y que con esta aplicación se pueden realizar collages, con un buen manejo de espacio, multiplicidad de fondos y formatos diferentes, de igual permite diseñar fotos con doble exposición, permitiendo una combinación de fuentes ilimitada, lo más importante de esta herramienta es poder retocar luces, colores y brillos. Permite compartir las fotografías en redes sociales funcional para Android e iOS.
+          p.ps-xl-4.mb-0 Sin duda alguna es la herramienta más completa del mercado ya que permite ajustar los tamaños de las imágenes.  Adicionalmente, cuenta con la opción HDR, que es la que mejora las fotografías en perspectiva, así como el ajuste de la imagen de acuerdo con su necesidad, saturación, sombras, brillo, contraste, entre otras. Uno de sus más grandes atractivos es determinar una sección de la foto y aplicarle el filtro que desee en vivo; esta aplicación está en capacidad de procesar archivos RAW, en los cuales, los filtros se fusionan en capas permitiendo observar las modificaciones realizadas dando la ventaja de ajustar individualmente las imágenes. Esta herramienta es muy funcional para iOS y Android.
       
       .py-3.py-md-4(titulo="VSCO Cam")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center.col-xl-10.mx-auto
           img(src='@/assets/curso/temas/tema1/img-25.png' style="max-width: 400px").col-xl-5.mb-4.mb-xl-0
-          p.ps-xl-4.mb-0 <span class="fw-bold">VSCO Cam: </span> Esta herramienta tiene unas características especiales que la hacen la predilecta a la hora de realizar ajustes de edición fotográfica para dispositivos móviles, permite de manera fácil modificar la  exposición y el contraste, con la ventaja que modificará de forma rápida la temperatura de tus fotos, con resultado óptimo, su fuerte es el manejo de filtros, nitidez, brillos, saturación, exposición entre otros, de igual forma tiene filtros prefijados y suaves de fácil uso los que permiten observar de forma rápida como queda la foto después de usar la herramienta, casi que a simple vista pareciera que no tiene filtros la imagen. Las fotos se podrán exportar directamente en redes sociales, compatibles con iOS y Android.
+          p.ps-xl-4.mb-0 Esta herramienta tiene unas características especiales que la hacen la predilecta a la hora de realizar ajustes de edición fotográfica para dispositivos móviles, permite de manera fácil modificar la exposición y el contraste, con la ventaja que modificará de forma rápida la temperatura de tus fotos, con resultado      óptimo, su fuerte es el manejo de filtros, nitidez, brillos, saturación, exposición entre otros, de igual forma tiene filtros prefijados y suaves de fácil uso los que permiten observar de forma rápida como queda la foto después de usar la herramienta, casi que a simple vista pareciera que no tiene filtros la imagen. Las fotos se podrán exportar directamente en redes sociales, compatibles con iOS y Android.
 
     .titulo-segundo.color-acento-contenido
       h2#t_1_3 1.3 Editores con pago
@@ -227,11 +227,6 @@
     p.mb-5 Además de editores gratuitos, el mercado de los fotógrafos está abierto para todas las <b>casas realizadoras de <em>software</em></b> con varias aplicaciones que sirven desde la gestión básica de imágenes con retoques, como recortar y girar hasta grandes efectos como solarización, capas de composición o montajes múltiples. A continuación, se comparten algunas herramientas que son fáciles de adquirir,  pagando por su uso en el computador o en algún dispositivo móvil:     
 
     TabsA.color-acento-botones.mb-5.pestanas-a
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Photos Pos Pro" style="background-color: #F0F8FF; border-color: #F0F8FF;")
-        .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
-          img(src="@/assets/curso/temas/tema1/img-26.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
-          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">Photos Pos Pro: </span> Esta interfaz permite editar las fotografías con dos interfaces diferentes, cuenta con un diseño avanzado puesto que maneja una gama amplia de herramientas de edición la cual incluye texturas, degradados, pinceles, máscaras, capas y conversión RAW, otra gran ventaja es que se pueden realizar ediciones en grandes espacios de imágenes, esto disminuye el tiempo de edición de forma ordenada y automática, al usuario le llama mucho la atención las mejoras que presentan las imágenes con intermedio de los filtros y efectos creativos con los que cuenta la herramienta y que son de fácil manipulación.
-
       .tarjeta.color-acento-botones--borde.p-4(titulo="GIMP" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-27.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
@@ -241,6 +236,11 @@
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
           img(src="@/assets/curso/temas/tema1/img-28.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
           p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">Paint.net: </span> Cuenta con una interfaz directa y clara al momento de ser utilizada, es un <em>software</em> de fácil uso, proporciona una variada gama de herramientas de edición como brillo, contraste, tonos, curvas, niveles, niveles y degradados. También, admite complementos creados por la comunidad de desarrolladores. Estos complementos se pueden usar para acceder a funciones avanzadas, haciendo referencia a la conocida herramienta de rotación/zoom 3D para la reconstrucción de imágenes.
+
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Photos Pos Pro" style="background-color: #F0F8FF; border-color: #F0F8FF;")
+        .d-flex.flex-wrap.flex-xl-nowrap.align-items-center
+          img(src="@/assets/curso/temas/tema1/img-26.png" style="max-width: 150px").col-12-col-xl-5.mb-4.mb-xl-auto.mx-auto
+          p.col-12-col-xl-7.ps-lg-4.mb-0 <span class="fw-bold">Photos Pos Pro: </span> Esta interfaz permite editar las fotografías con dos interfaces diferentes, cuenta con un diseño avanzado puesto que maneja una gama amplia de herramientas de edición la cual incluye texturas, degradados, pinceles, máscaras, capas y conversión RAW, otra gran ventaja es que se pueden realizar ediciones en grandes espacios de imágenes, esto disminuye el tiempo de edición de forma ordenada y automática, al usuario le llama mucho la atención las mejoras que presentan las imágenes con intermedio de los filtros y efectos creativos con los que cuenta la herramienta y que son de fácil manipulación.
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="PhotoScape X" style="background-color: #F0F8FF; border-color: #F0F8FF;")
         .d-flex.flex-wrap.flex-xl-nowrap.align-items-center

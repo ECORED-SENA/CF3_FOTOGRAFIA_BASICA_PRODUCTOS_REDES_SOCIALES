@@ -8,7 +8,7 @@
       h1 Procesos creativos audiovisuales
 
     .d-flex.flex-wrap.flex-xl-nowrap.mb-5
-      p.col-xl-8.order-2.order-xl-1.pe-xl-4 Los procesos creativos tienen un papel fundamental en la realización de fotografía de productos. Esto se debe a que permiten desarrollar la creatividad y aplicarla de forma tal que logre comunicar los atributos y fortalezas de los productos que se están fotografiando. De ellos también depende el impacto que las piezas audiovisuales van a tener en redes sociales. Cuanto más creativo sea este enfoque y mayor preparación del set fotográfico haya, mayor será el impacto en redes sociales lo que permitirá que el producto se destaque dentro de su competencia.
+      p.col-xl-8.order-2.order-xl-1.pe-xl-4 Los procesos creativos tienen un papel fundamental en la realización de fotografía de productos. Esto se debe a que permiten desarrollar la creatividad y aplicarla de forma tal que logre comunicar los atributos y fortalezas de los productos que se están fotografiando. De ellos también depende el impacto que las piezas audiovisuales van a tener en redes sociales. Cuanto más creativo sea este enfoque y mayor preparación del <em>set</em> fotográfico haya, mayor será el impacto en redes sociales lo que permitirá que el producto se destaque dentro de su competencia.
         br
         | Para esto se emplea el llamado proceso creativo. Su finalidad es plantear soluciones a los problemas que se presenten durante la ejecución de un proyecto fotográfico. Las principales fases del proceso creativo son:
       img(src='@/assets/curso/temas/tema5/img-1.png' style="max-width: 400px").col-xl-4.order-1.order-cl-2.mb-4.mb-xl-0
@@ -316,11 +316,11 @@
     SlyderF.mb-5.slider-edit.mx-auto(style="background-color: #FFF6E2; border-radius: 10px")
       .tarjeta.color-acento-botones.p-4.d-flex.flex-wrap.flex-xl-nowrap.align-items-center(style="background-color: transparent")
         img(src='@/assets/curso/temas/tema5/img-27.svg' style="max-width: 80px").col-xl-1.mb-4.mb-xl-0.mx-auto.me-xl-3
-        p.col-xl-11.mx-auto <b>01.</b> El set fotográfico debe estar listo y seleccionado antes de comenzar la realización de una fotografía de producto, ya que es en este lienzo en blanco donde se comenzará a componer y a recrear el proceso creativo que se va a desarrollar. 
+        p.col-xl-11.mx-auto <b>01.</b> El <em>set</em> fotográfico debe estar listo y seleccionado antes de comenzar la realización de una fotografía de producto, ya que es en este lienzo en blanco donde se comenzará a componer y a recrear el proceso creativo que se va a desarrollar. 
 
       .tarjeta.color-acento-botones.p-4.d-flex.flex-wrap.flex-xl-nowrap.align-items-center(style="background-color: transparent")
         img(src='@/assets/curso/temas/tema5/img-27.svg' style="max-width: 80px").col-xl-1.mb-4.mb-xl-0.mx-auto.me-xl-3
-        p.col-xl-11.mx-auto <b>02.</b> Se debe estar seguro de que se cuente con el espacio suficiente para colocar nuestro equipo fotográfico y el tipo de iluminación que se va a utilizar para la fotografía de producto a realizar. Hay que tener en cuenta que, si se va a trabajar con luz natural para potenciar la frescura y naturalidad de los productos a vender, es necesario ubicar el set fotográfico en un lugar que tenga una buena entrada de luz natural por alguna ventana, teja o claraboya. Si, por lo contrario, se va a trabajar con luz artificial para tener más control en las sombras del producto a fotografiar, es necesario que el lugar cuente con tomacorriente y espacio para ubicar los trípodes y las luces.
+        p.col-xl-11.mx-auto <b>02.</b> Se debe estar seguro de que se cuente con el espacio suficiente para colocar nuestro equipo fotográfico y el tipo de iluminación que se va a utilizar para la fotografía de producto a realizar. Hay que tener en cuenta que, si se va a trabajar con luz natural para potenciar la frescura y naturalidad de los productos a vender, es necesario ubicar el <em>set</em> fotográfico en un lugar que tenga una buena entrada de luz natural por alguna ventana, teja o claraboya. Si, por lo contrario, se va a trabajar con luz artificial para tener más control en las sombras del producto a fotografiar, es necesario que el lugar cuente con tomacorriente y espacio para ubicar los trípodes y las luces.
       
       .tarjeta.color-acento-botones.p-4.d-flex.flex-wrap.flex-xl-nowrap.align-items-center(style="background-color: transparent")
         img(src='@/assets/curso/temas/tema5/img-27.svg' style="max-width: 80px").col-xl-1.mb-4.mb-xl-0.mx-auto.me-xl-3
