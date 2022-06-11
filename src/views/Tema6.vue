@@ -119,8 +119,7 @@
       </svg>
       .container-text-img
         p <b>{{arrayDataImg[indexValue].titulo}}</b>
-          br
-          | {{arrayDataImg[indexValue].content}}
+        p(v-html="arrayDataImg[indexValue].content")
 
     .titulo-segundo.color-acento-contenido
       h2#t_6_1 6.1. Formatos de archivo para redes sociales

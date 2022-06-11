@@ -115,8 +115,8 @@
         </svg>
       .col-xl-6
         .tarjeta.edit-tarjeta-index
-          p.fw-bold {{itemsImg[indexImg].title}}
-          p.mb-0 {{itemsImg[indexImg].content}}
+          p.fw-bold(v-html="itemsImg[indexImg].title")
+          p.mb-0(v-html="itemsImg[indexImg].content")
 
     Separador
 
@@ -354,37 +354,37 @@ export default {
       {
         title: '01. Propósito',
         content:
-          '¿Qué se quiere alcanzar? Plantear un proyecto o un reto determinado. En esta fase se debe determinar la dimensión y alcance que este proyecto tiene. Por ejemplo, es diferente fotografiar un producto en fondo blanco, que realizar una fotografía con escenografía y <em>styling</em>. También es el momento de plantear los objetivos del proyecto y de analizar cómo se van a llevar a cabo.',
+          '<p>¿Qué se quiere alcanzar? Plantear un proyecto o un reto determinado. En esta fase se debe determinar la dimensión y alcance que este proyecto tiene. Por ejemplo, es diferente fotografiar un producto en fondo blanco, que realizar una fotografía con escenografía y <em>styling</em>. También es el momento de plantear los objetivos del proyecto y de analizar cómo se van a llevar a cabo.</p>',
       },
       {
         title: '02. Análisis de datos',
         content:
-          '¿Con qué datos y herramientas se cuenta? Se debe evaluar si son suficientes la información, los recursos y las herramientas que se tienen disponibles para abordar el propósito o, por el contrario, si es necesario recopilar más datos que ayuden a entender mejor el proyecto o reto determinado.',
+          '<p>¿Con qué datos y herramientas se cuenta? Se debe evaluar si son suficientes la información, los recursos y las herramientas que se tienen disponibles para abordar el propósito o, por el contrario, si es necesario recopilar más datos que ayuden a entender mejor el proyecto o reto determinado.</p>',
       },
       {
         title: '03. Lluvia de ideas',
         content:
-          'Es un ejercicio donde a través de palabras y frases cortas se deconstruye la estrategia que se usará para resolver el problema o reto planteado. El objetivo es que surjan variedad de ideas que servirán de apoyo para fortalecer el proceso creativo. Estas se decantarán en una fase posterior.',
+          '<p>Es un ejercicio donde a través de palabras y frases cortas se deconstruye la estrategia que se usará para resolver el problema o reto planteado. El objetivo es que surjan variedad de ideas que servirán de apoyo para fortalecer el proceso creativo. Estas se decantarán en una fase posterior.</p>',
       },
       {
         title: '04. Selección de ideas',
         content:
-          'Es aquí donde se evalúa el grupo de ideas que se obtuvo a partir de la fase anterior. Deberán ser elegidas las que mejor ayuden a solucionar el problema creativo o proyecto. Su selección puede basarse en calificaciones objetivas y/o subjetivas (juicio crítico), ya que lo importante en esta fase es filtrar la lluvia de ideas.',
+          '<p>Es aquí donde se evalúa el grupo de ideas que se obtuvo a partir de la fase anterior. Deberán ser elegidas las que mejor ayuden a solucionar el problema creativo o proyecto. Su selección puede basarse en calificaciones objetivas y/o subjetivas (juicio crítico), ya que lo importante en esta fase es filtrar la lluvia de ideas.</p>',
       },
       {
         title: '05. Puesta en marcha',
         content:
-          'En esta fase el fotógrafo o equipo creativo ejecuta las ideas seleccionadas. Durante este proceso se ponen a prueba los conceptos y habilidades con las que el equipo cuenta, ya que de ellos dependerá lograr un resultado creativo que constituya una solución al problema planteado inicialmente.',
+          '<p>En esta fase el fotógrafo o equipo creativo ejecuta las ideas seleccionadas. Durante este proceso se ponen a prueba los conceptos y habilidades con las que el equipo cuenta, ya que de ellos dependerá lograr un resultado creativo que constituya una solución al problema planteado inicialmente.</p>',
       },
       {
         title: '06. Evaluación',
         content:
-          'En esta fase es donde se valora la realización o viabilidad de las ideas seleccionadas. También se verifica si con estas, el problema sugerido queda resuelto o no. En esta etapa también se deben plantear ideas alternativas que ayuden a solucionar el problema formulado, ya sea para reemplazar aquellas que no sirvan o para complementar aquellas ideas que sí den solución a este.',
+          '<p>En esta fase es donde se valora la realización o viabilidad de las ideas seleccionadas. También se verifica si con estas, el problema sugerido queda resuelto o no. En esta etapa también se deben plantear ideas alternativas que ayuden a solucionar el problema formulado, ya sea para reemplazar aquellas que no sirvan o para complementar aquellas ideas que sí den solución a este.</p>',
       },
       {
         title: '07. Conclusión',
         content:
-          'En esta etapa se determina si las ideas planteadas y evaluadas son buenas o no y, si se logra el propósito planteado. También es el momento de decidir si se pueden ajustar o si por el contrario, se debe iniciar el proceso creativo de nuevo.',
+          '<p>En esta etapa se determina si las ideas planteadas y evaluadas son buenas o no y, si se logra el propósito planteado. También es el momento de decidir si se pueden ajustar o si por el contrario, se debe iniciar el proceso creativo de nuevo.</p>',
       },
     ],
   }),
