@@ -156,7 +156,7 @@
       .row.align-items-center(titulo="Realización")
         img(src='@/assets/curso/temas/tema1/img-18.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto
         .col-lg-8.mb-4.mb-md-0.pe-lg-5
-          p.mb-0.ps-4 Las opciones de cámara que ofrece Lightroom son las típicas de casi todas las aplicaciones de fotografía. Estas opciones pueden ser para uso manual profesional o uso automático siendo la manual profesional la que da más control al usuario. Hay dos aspectos que marcan la diferencia a la hora de utilizar Lightroom, el primero es a la hora de capturar fotografías por sus encuadres y ayudas visuales para lograr mejores resultados.
+          p.mb-0.ps-4 Las opciones de cámara que ofrece Lightroom son las típicas de casi todas las aplicaciones de fotografía. Estas opciones pueden ser para uso manual profesional o uso automático siendo la manual profesional la que da más control al usuario. Hay dos aspectos que marcan la diferencia a la hora de utilizar Lightroom, el primero es a la hora de capturar fotografías por sus encuadres y ayudas visuales para lograr mejores resultados. 
             | El segundo aspecto es el uso de efectos en tiempo real, esto le permite al fotógrafo ver cómo funcionan los diferentes efectos antes de tomar una foto. Es de gran ayuda saber cómo van a quedar las fotos que se están pensando.
       
       .row.align-items-center(titulo="Catalogación")
@@ -165,7 +165,7 @@
           p.mb-0.ps-4 <span class="fw-bold">Catalogación</span>
             br
             br
-            | Permite organizar y catalogar las fotografías. brindando al usuario la posibilidad de ubicar todas las imágenes en su lugar. Puede diseñar y crear álbumes con fotos seleccionadas, organizar las fotos tomadas en fechas y horas específicas. Lightroom tiene una poderosa base de datos que le permite saber dónde, cuándo y cómo se realizaron las fotografías.
+            | Permite organizar y catalogar las fotografías, brindando al usuario la posibilidad de ubicar todas las imágenes en su lugar. Puede diseñar y crear álbumes con fotos seleccionadas, organizar las fotos tomadas en fechas y horas específicas. Lightroom tiene una poderosa base de datos que le permite saber dónde, cuándo y cómo se realizaron las fotografías.
       
       .row.align-items-center(titulo="Retoque")
         img(src='@/assets/curso/temas/tema1/img-20.png' style="max-width: 356px").col-lg-4.px-lg-0.ms-auto

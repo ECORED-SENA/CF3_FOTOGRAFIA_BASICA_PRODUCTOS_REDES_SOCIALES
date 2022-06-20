@@ -30,7 +30,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img-3.png', alt='Formato JPEG').mb-4.mb-md-0
           .col-md-6.mb-4.mb-md-0.d-flex.align-items-center
-            p El formato a utilizar en la red social es JPEG (la mejor calidad) o TIFF (impresos), ya que archivos de imagen que no cuentan con compresión y permiten un mayor almacenamiento de información, contrario a un archivo JPG que es un formato de imagen con compresión, cualquiera de los dos archivos nombrados le servirá para una excelente impresión, si el final del archivo es digital o <em>red</em> social es mejor trabajar JPEG.
+            p El formato a utilizar en la red social es JPEG (la mejor calidad) o TIFF (impresos), ya que son archivos de imagen que no cuentan con compresión y permiten un mayor almacenamiento de información, contrario a un archivo JPG que es un formato de imagen con compresión, cualquiera de los dos archivos nombrados le servirá para una excelente impresión, si el final del archivo es digital o <em>red</em> social es mejor trabajar JPEG.
 
         .row.col-xl-11.mx-auto(titulo="Paso 03")
           .col-md-6.px-0.px-md-2

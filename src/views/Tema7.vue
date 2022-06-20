@@ -38,7 +38,7 @@
       .tarjeta.color-acento-botones.d-flex.flex-wrap.flex-xl-nowrap(titulo="Paso 2" style="background-color: #FAF1BF; border-radius: 0")
         p.p-3.p-xl-4.mb-0.order-2.order-xl-1 <b>Paso 2</b>
           br
-          | Ahora, aparecen todas las fotos del dispositivo móvil. Si la imagen que se desea subir es reciente, se podrá observar en los primeros recuadros; de lo contrario puede ubicarla a través de las carpetas. Se debe tener en cuenta que en esta sección se pueden seleccionar una o varias imágenes, Seleccionar la imagen a subir y esta aparecerá en grande en la parte superior; presionar sobre la flecha que indica siguiente y está ubicada en la parte superior derecha.
+          | Ahora, aparecen todas las fotos del dispositivo móvil. Si la imagen que se desea subir es reciente, se podrá observar en los primeros recuadros; de lo contrario puede ubicarla a través de las carpetas. Se debe tener en cuenta que en esta sección se pueden seleccionar una o varias imágenes. Seleccionar la imagen a subir y esta aparecerá en grande en la parte superior; presionar sobre la flecha que indica siguiente y está ubicada en la parte superior derecha.
         img(src="@/assets/curso/temas/tema7/img-5.png" style="max-width: 295px").mx-auto.my-4.my-xl-0.order-1.order-xl-2
 
       .tarjeta.color-acento-botones.d-flex.flex-wrap.flex-xl-nowrap(titulo="Paso 3" style="background-color: #FAF1BF; border-radius: 0")

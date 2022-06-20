@@ -65,7 +65,7 @@
       .row.align-items-center.col-xl-11.mx-auto(titulo="Tono, saturación y luminosidad")
         img(src='@/assets/curso/temas/tema2/img-8.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto
         .col-xl-9.mb-4.mb-md-0.pe-lg-5
-          p.mb-0.ps-4 Esto permite cambiar una foto desde tres aspectos básicos., se Puede cambiar el tono de color de la imagen dentro del rango de tono y espectro. La saturación indica la cantidad de color que contiene la imagen (cuando la saturación es mínima, la foto será en blanco y negro). La intensidad luminosa indica la cantidad de luz.
+          p.mb-0.ps-4 Esto permite cambiar una foto desde tres aspectos básicos. Se puede cambiar el tono de color de la imagen dentro del rango de tono y espectro. La saturación indica la cantidad de color que contiene la imagen (cuando la saturación es mínima, la foto será en blanco y negro). La intensidad luminosa indica la cantidad de luz.
       
       .row.align-items-center.col-xl-11.mx-auto(titulo="Balance de color")
         img(src='@/assets/curso/temas/tema2/img-9.png' style="max-width: 356px").col-xl-3.mx-auto.mb-4.mb-xl-0.px-lg-0.ms-auto

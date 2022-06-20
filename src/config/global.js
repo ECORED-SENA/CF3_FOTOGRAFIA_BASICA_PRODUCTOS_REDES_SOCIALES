@@ -51,7 +51,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Corrección de colores',
+        titulo: 'Corrección de color',
         desarrolloContenidos: true,
       },
       {
@@ -89,13 +89,13 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '1.3',
+            numero: '5.3',
             titulo: 'Características de los procesos creativos',
             hash: 't_5_3',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '1.4',
+            numero: '5.4',
             titulo: 'Arte y finalización fotográfica',
             hash: 't_5_4',
           },
@@ -265,7 +265,7 @@ export default {
     {
       referencia: 'Crehana. (2019). <em>Qué formatos de archivo existen.</em>.',
       link:
-        'http://fotografiaparaprincipianntes.blogspot.com/2016/06/las-mascaras-en-photoshop.html',
+        'https://www.crehana.com/blog/marketing-digital/los-formatos-que-debe-tener-tu-contenido-digital/',
     },
     {
       referencia: 'Domestika. (2020). <em>Qué es la corrección de color.</em>.',
