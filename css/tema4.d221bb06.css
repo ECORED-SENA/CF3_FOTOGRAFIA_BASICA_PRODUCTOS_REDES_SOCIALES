@@ -1,0 +1,1 @@
+.text-decorator-top-left{position:relative}.text-decorator-top-left p{position:relative;margin-bottom:0;z-index:1}.text-decorator-top-left:before{content:"";position:absolute;z-index:0;width:356px;height:98px;background-color:#fff2be;top:-1.5rem;left:-1.5rem}
