@@ -157,11 +157,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -263,7 +263,8 @@ export default {
         'https://www.deustoformacion.com/blog/redes-sociales/guia-formatos-tamanos-para-disenos-redes-sociales',
     },
     {
-      referencia: 'Crehana. (2019). <em>Qué formatos de archivo existen.</em>.',
+      referencia:
+        'Crehana. (2019). <em>Los formatos que debe tener tu contenido digital</em>.',
       link:
         'https://www.crehana.com/blog/marketing-digital/los-formatos-que-debe-tener-tu-contenido-digital/',
     },
